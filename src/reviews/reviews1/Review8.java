@@ -1,4 +1,4 @@
-package Java復習問題;
+package reviews.reviews1;
 
 public class Review8 {
     public static void main(String[] args) {
