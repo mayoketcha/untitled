@@ -1,3 +1,5 @@
+package Java復習問題;
+
 public class Review19 {
     public static void main(String[] args) {
         int num = 19;

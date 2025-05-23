@@ -1,3 +1,5 @@
+package Java復習問題;
+
 public class Review8 {
     public static void main(String[] args) {
         double a = 10;

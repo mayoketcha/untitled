@@ -1,3 +1,5 @@
+package Java復習問題;
+
 public class Review1 {
     public static void main(String[] args) {
         System.out.print("こんにちは。\n");

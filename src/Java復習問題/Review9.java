@@ -1,3 +1,5 @@
+package Java復習問題;
+
 import java.io.*;
 public class Review9 {
     public static void main(String[] args) throws IOException {
